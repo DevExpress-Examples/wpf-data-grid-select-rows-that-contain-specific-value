@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGrid_SelectRows", "DXGrid_SelectRows\DXGrid_SelectRows.csproj", "{B77F63EB-3F21-4AAF-88D9-6DE26A04E6F9}"
 EndProject
 Global
