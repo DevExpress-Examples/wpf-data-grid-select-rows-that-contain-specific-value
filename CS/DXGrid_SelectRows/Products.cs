@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.ObjectModel;
 
 public class Product {
     public string CompanyName { get; set; }
@@ -8,10 +7,9 @@ public class Product {
     public double UnitPrice { get; set; }
     public int Quantity { get; set; }
 }
-
 public class ProductList {
-    static public List<Product> GetData() {
-        List<Product> list = new List<Product>();
+    static public ObservableCollection<Product> GetData() {
+        ObservableCollection<Product> list = new ObservableCollection<Product>();
         list.Add(new Product() { CompanyName = "Island Trading", 
             Country = "UK", City = "Cowes", UnitPrice = 19, Quantity = 10 });
         list.Add(new Product() { CompanyName = "Reggiani Caseifici",
