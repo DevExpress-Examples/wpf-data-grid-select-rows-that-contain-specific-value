@@ -40,7 +40,7 @@ Namespace DXGrid_SelectRows
         End Sub
 
         Public Function CanSelectRows(ByVal textValue As String) As Boolean
-            Return Double.TryParse(textValue, __)
+            Return Double.TryParse(textValue, Nothing)
         End Function
     End Class
 End Namespace
