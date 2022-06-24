@@ -18,7 +18,7 @@ namespace DXGrid_SelectRows {
             Selection = new ObservableCollection<Product>(from item in Products where item.UnitPrice >= value select item);
         }
         public bool CanSelectRows(string textValue) {
-            return double.TryParse(textValue, out _);
+            return double.TryParse(textValue, out double value);
         }
     }
 }
