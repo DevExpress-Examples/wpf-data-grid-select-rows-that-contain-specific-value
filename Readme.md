@@ -3,9 +3,9 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1920)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# WPF Data Grid - Select Rows that Contain the Specified Value
+# WPF Data Grid - Select Rows that Contain a Specific Value
 
-This example shows how to select rows whose **Unit Price** column contains a value equal to or greater than the specified value. To select rows, click the **Select** button.
+This example selects rows whose **Unit Price** column contains a value equal to or greater than the specified value. To select rows, click the **Select** button.
 
 ![image](https://user-images.githubusercontent.com/65009440/175562698-a36d0ab2-2b5f-456f-8145-6c45accb005c.png)
 
