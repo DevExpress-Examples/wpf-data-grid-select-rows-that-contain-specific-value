@@ -26,7 +26,7 @@ This example selects rows whose **Unit Price** column contains a value equal to 
 * [WPF Data Grid - Focus a Cell with the Specified Value](https://github.com/DevExpress-Examples/how-to-focus-a-cell-with-the-specified-value-e1544)
 * [WPF Data Grid - Bind Selected Rows to a ViewModel Property](https://github.com/DevExpress-Examples/wpf-data-grid-bind-selected-rows-to-viewmodel-property)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-select-rows-that-contain-specific-value&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-select-rows-that-contain-specific-value&~~~was_helpful=no)
 
